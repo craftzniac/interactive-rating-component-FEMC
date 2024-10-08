@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./static/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/craftzniac/interactive-rating-component-FEMC)
+- Live Site URL: [Live Demo](https://interactive-rating-componentttt-femc.netlify.app/)
 
 ## My process
 
